@@ -8,7 +8,13 @@ New open-source projects coming soon.
 
 ## Tools
 
-Java, JavaScript, TypeScript, Python, React, Angular, Tailwind CSS, Redux, HTML5, CSS3, Vite, Webpack, FastAPI, Django, Flask, MongoDB, MySQL, Supabase, Redis, Docker, Google Cloud, Linux, Git, VS Code, Figma.
+- Languages: Go, Python, TypeScript, JavaScript, SQL
+- Frontend: React, Angular, Refine, React Flow, Tailwind CSS
+- Backend: FastAPI, Django, NestJS
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Workflow: Temporal
+- DevOps & Cloud: Docker, Kubernetes, Helm, Nginx, AWS, Google Cloud, DigitalOcean, Cloudflare
+- Tools: Git, GitLab, Jira
 
 ## Contact
 
