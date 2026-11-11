@@ -24,4 +24,4 @@ New open-source projects coming soon.
 
 ## GitHub stats
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=genius-wizard-dev&theme=tokyonight)](https://github.com/genius-wizard-dev)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xThuan&theme=tokyonight)](https://github.com/0xThuan)
