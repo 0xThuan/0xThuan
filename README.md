@@ -19,7 +19,7 @@ New open-source projects coming soon.
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/nguyen-thanh-thuan/)
-- [X (@thuannguyen_it)](https://x.com/thuannguyen_it)
+- [X (@0xThuan)](https://x.com/0xThuan)
 - [nguyen.thanh.thuan.it@gmail.com](mailto:nguyen.thanh.thuan.it@gmail.com)
 
 ## GitHub stats
